@@ -1,0 +1,161 @@
+.profil{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    margin-top: 100px;
+}
+.marie{
+    margin-right: 50px;
+}
+.nav-link {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  color: #000 !important;
+  font-size: 20px !important;
+
+}
+.marie p{
+    font-size: 20px;
+    color: rgba(37, 35, 35,);
+}
+.marie2 img{
+margin-left: 15px;
+}
+span{
+    color: #f02121;
+}
+body{
+  font-family: "Roboto", sans-serif;
+    background-color: #fff;
+
+}
+ #section{
+    min-height: 100vh;
+    padding: 3%;
+}
+
+.social-media{
+    color: #000;
+    font-size: 30px;
+    border-radius: 50%;
+    margin-left: 30%;
+}
+  
+
+ #service{
+    max-width:1500px;
+    margin-top:100px;
+    
+    
+ }
+ .service-card{
+    display: flex;
+    padding: 15px;
+    margin-left: 100px;
+    margin-right: 150px;
+    margin-top: 100px;
+   
+ }
+ h5{
+    font-size: 100px;
+    color: #f02121;
+ }
+ h4{
+   font-size: 2em;
+ }
+ #card{
+   
+    text-align: center;
+
+ }
+ #card p{
+   font-size: 1.1em;
+ }
+ h6{
+   text-align: center;
+   font-size: 3em;
+   margin-top: 20px;
+}
+
+
+.sercive{
+    max-width:1500px;
+    margin-top:100px;
+    
+    
+ }
+ .service-card{
+    display: flex;
+    padding: 15px;
+    margin-left: 100px;
+    margin-right: 150px;
+    margin-top: 100px;
+   
+ }
+ h4{
+   font-size: 2em;
+   font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+ .card{
+    min-width: 400px;
+    text-align: center;
+
+ }
+ .card p{
+   font-size: 1.1em;
+ }
+ h6{
+   text-align: center;
+   font-size: 3em;
+   margin-top: 20px;
+   
+   
+ }
+ a{
+   text-decoration: none;
+ }
+ .col-md-6 p{
+   margin-top: 2rem;
+ }
+ .col-md-5 p{
+   margin-top: 20px;
+ }
+ 
+ .bouton{
+  width: 20%;
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 28rem;
+  background-color: white;
+}
+
+.social-media{
+  color: #000;
+  font-size: 30px;
+  margin-left: 60px;
+}
+footer{
+  background-color:#000;
+  color:#fff;
+ text-align: center;
+  padding: 7px;
+  margin-top: 120px;
+}
+.form-control {
+  background-color: #fff;
+  border: 2px solid #000;
+}
+.text h4 p{
+  color: #000;
+}
+.icon{
+  color: #fff;
+  font-size: 30px;
+}
+.box:hover{
+  box-shadow: 0 0 25px red;
+  transform: scale(1.1);
+  transition: 0.3s ease-in-out;
+}
